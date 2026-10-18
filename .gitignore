@@ -1,0 +1,13 @@
+.build/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+certs/
+tools/jointspace_mac_pairing.json
+TVKumanda/client.p12
+*.p12
+*.pem
+tools/code.txt
+tools/cmd.txt
+tools/*.log
+__pycache__/
